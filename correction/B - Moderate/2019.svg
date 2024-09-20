@@ -1,0 +1,7 @@
+<svg id="mol13" xmlns="http://www.w3.org/2000/svg" version="1.1" width="15px" height="39px" viewBox="143 81 15 39">
+  <style> text {font-family: sans-serif;} #mol13 { pointer-events:none; } #mol13 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <line x1="150" y1="112" x2="150" y2="88" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol13:Bond:0" class="event" x1="150" y1="112" x2="150" y2="88" stroke-width="8" opacity="0" />
+  <circle id="mol13:Atom:0" class="event" cx="150" cy="112" r="8" opacity="0" />
+  <circle id="mol13:Atom:1" class="event" cx="150" cy="88" r="8" opacity="0" />
+</svg>

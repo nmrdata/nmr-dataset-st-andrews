@@ -1,0 +1,207 @@
+[
+  {
+    "groupName": "A - Easy",
+    "folderName": "A - Easy",
+    "children": [
+      {
+        "id": "w7RBA8fNJ9LgAhyGGmv+ST9cjDY=",
+        "mf": "C8H8O2",
+        "idCodeHash": "75b582a425524ceeaed27f51c07fecbc",
+        "file": "./A - Easy/2014/index.json",
+        "title": "Exercise 1",
+        "selected": true,
+        "idCode": "deTD@@yIYVvE`BH@@"
+      },
+      {
+        "id": "qoEC59Z2JPKYjnFcs/0zTLUow3w=",
+        "mf": "C9H7NO3",
+        "idCodeHash": "b02c52dec2a605016db43e79c517943a",
+        "file": "./A - Easy/2015/index.json",
+        "title": "Exercise 2",
+        "idCode": "dknLAHACbTyInUu^Eh@Kh@@"
+      },
+      {
+        "id": "92U2PXHG0TnRUHLLtiIptq297yY=",
+        "mf": "C8H7NO4",
+        "idCodeHash": "ef4a94913985acb218b596f6570b9481",
+        "file": "./A - Easy/2016/index.json",
+        "title": "Exercise 3",
+        "idCode": "dknBAHAEvISlbfbRfazV`BF`@@"
+      },
+      {
+        "id": "wLKeesW5tDaM1/On+lFa9Ik/Dyo=",
+        "mf": "C7H5NO",
+        "idCodeHash": "9767cecd4d4f39287023dfdc76c66840",
+        "file": "./A - Easy/2017/index.json",
+        "title": "Exercise 4",
+        "idCode": "difH@NAIfUXXHL@@"
+      },
+      {
+        "id": "5Br6Fs0YhbXyaUJVSoyxVP5Vwz0=",
+        "mf": "C8H9NO2",
+        "idCodeHash": "8e267dc10642198090af07ddfcc604cf",
+        "file": "./A - Easy/2018/index.json",
+        "title": "Exercise 5",
+        "idCode": "dmvD@DATf^Uqej@B@@"
+      },
+      {
+        "id": "D+7YlBV8YAa8x2NOtiFITCec7Wk=",
+        "mf": "C8H7NO3",
+        "idCodeHash": "37b56e25c207689b195a543d9db19958",
+        "file": "./A - Easy/2019/index.json",
+        "title": "Exercise 6",
+        "idCode": "dcNLBHAESdfyV{iZ@HX@@"
+      },
+      {
+        "id": "oGGhn0tmnCH2YI05X/KWce35I+Y=",
+        "mf": "C11H12O2",
+        "idCodeHash": "a5643b06b4aa5d2111ae0386c968e2c6",
+        "file": "./A - Easy/2020/index.json",
+        "title": "Exercise 7",
+        "idCode": "dklD@@QIeWe]MjZ@@BB`",
+        "noStereoIDCodeHash": "9a48023c53ae6e09e7a4946922086f9b"
+      },
+      {
+        "id": "iuFfmgqpKt3zmMvX0Q589o7kNLg=",
+        "mf": "C10H8O2",
+        "idCodeHash": "d2001abb7f53af68bb7b23b864460b2e",
+        "file": "./A - Easy/2023/index.json",
+        "title": "Exercise 8",
+        "idCode": "dcLD@@EIYWU[f@Bk@@"
+      }
+    ]
+  },
+  {
+    "groupName": "B - Moderate",
+    "folderName": "B - Moderate",
+    "children": [
+      {
+        "id": "d5czTmSYyDi0mSRGE3XuN56ZECU=",
+        "mf": "C13H16O5",
+        "idCodeHash": "279287b17de4f6407dfa4f83ba62be4e",
+        "file": "./B - Moderate/2014/index.json",
+        "title": "Exercise 9",
+        "idCode": "fdiAP@@HeYrSKZr|zIST@QSU@@@"
+      },
+      {
+        "id": "le3v06PI2BgB1j215/8Ka6c0Oco=",
+        "mf": "C13H10N2O4",
+        "idCodeHash": "aec95803dbe8b0b18f4b22bb937d6596",
+        "file": "./B - Moderate/2015/index.json",
+        "title": "Exercise 10",
+        "idCode": "flePPAHA@bJXRc`rgdfyWVUvxIwf`@h@I`@@"
+      },
+      {
+        "id": "uzb3em53Yf2Tr68Q4CEVdhJEoSM=",
+        "mf": "C14H16N2",
+        "idCodeHash": "74c8aab3fbcb0fdc5683cd8232a7cacd",
+        "file": "./B - Moderate/2016/index.json",
+        "title": "Exercise 11",
+        "idCode": "f`qP@@@^RYWUe^cKN`@j@B@@@"
+      },
+      {
+        "id": "rWbdWI9sGegGlSYzu1qs2Z7u7Ec=",
+        "mf": "C14H12O2",
+        "idCodeHash": "3177c357e4dab25484418fa442458e32",
+        "file": "./B - Moderate/2017/index.json",
+        "title": "Exercise 12",
+        "idCode": "f`q@`@@BRVUuYUgG^X@J`@@@@"
+      },
+      {
+        "id": "NP4PLFuTX5CJCztb92fy8ZXs2Ts=",
+        "mf": "C2H6",
+        "idCodeHash": "53ff964ab55b01573423f235a3889ffa",
+        "file": "./B - Moderate/2019/index.json",
+        "title": "Exercise 13",
+        "idCode": "eF@Hp@"
+      },
+      {
+        "id": "D1PL+v0j2tOuxLPaTmmYSG91R+U=",
+        "mf": "C13H22O5",
+        "idCodeHash": "6d5315d7c450880721a3ad04e7380d6a",
+        "file": "./B - Moderate/2020/index.json",
+        "title": "Exercise 14",
+        "idCode": "fdqAP@@Hd{rSJnvkZuUSUMP@@"
+      },
+      {
+        "id": "dYeFSo6lln3rhZgsEa1U9PrGYrY=",
+        "mf": "C17H18O3",
+        "idCodeHash": "b7821891fbc27ca81ccc8a9fa11a9d7d",
+        "file": "./B - Moderate/2023/index.json",
+        "title": "Exercise 15",
+        "idCode": "fbuA`@@R}dbfbRdlRbrxJNZ@`jA``@@@"
+      }
+    ]
+  },
+  {
+    "groupName": "C - Difficult",
+    "folderName": "C - Difficult",
+    "children": [
+      {
+        "id": "HqkUA3NKl63abQbD/H25vDEC1fs=",
+        "mf": "C17H18N2O3",
+        "idCodeHash": "9c348141cab810a152366daed3c2a96a",
+        "file": "./C - Difficult/2014/index.json",
+        "title": "Exercise 16",
+        "idCode": "ff}Q`BHZ@aTIQrS\\kmlkj|DFKP@SP@UP@@@"
+      },
+      {
+        "id": "8fzOxzvN5cVmhpWwgqxrKU//+XI=",
+        "mf": "C16H13NO2",
+        "idCodeHash": "084d8e9eb0bab0742b3ea4df68a2abc6",
+        "file": "./C - Difficult/2015/index.json",
+        "title": "Exercise 17",
+        "idCode": "fle``@D`PdvrnkJxiAbu@A\\@D@@@"
+      },
+      {
+        "id": "RSa8JFSH1I9uDnAko6uB05CzsVc=",
+        "mf": "C7H4OBr2",
+        "idCodeHash": "a58392a41b954a1b5a6dd4f429bf2ce2",
+        "file": "./C - Difficult/2016/index.json",
+        "title": "Exercise 18",
+        "idCode": "deTHPICDKDRYg]n``I@@"
+      },
+      {
+        "id": "bU3iYgvi1cYLzjuWr5qN1e7V7aI=",
+        "mf": "C10H10O4",
+        "idCodeHash": "b1ee98d70919262e1ec3a4b2c234651a",
+        "file": "./C - Difficult/2017/index.json",
+        "title": "Exercise 19",
+        "idCode": "dg\\B@@Q[R[VUmgVf@HhBL`",
+        "noStereoIDCodeHash": "1c3484e0a889e9e0e849f583125fb0ea"
+      },
+      {
+        "id": "iflANGHIpeOZeWTquHVZWW0iiXY=",
+        "mf": "C8H8O3",
+        "idCodeHash": "29dbd187ce24738027a0da624ae87994",
+        "file": "./C - Difficult/2018/index.json",
+        "title": "Exercise 20",
+        "idCode": "dmtL@@hTef^~e``b@@"
+      },
+      {
+        "id": "+XK7JOva9qtU+0xFmp5zcTrk4jI=",
+        "mf": "C7H6N2",
+        "idCodeHash": "0d0cd7c0b4ff86069a4d1ea38530915b",
+        "file": "./C - Difficult/2019/index.json",
+        "title": "Exercise 21",
+        "idCode": "die@@@qJYwi``K@@"
+      },
+      {
+        "id": "yvHtNE/Dst5J+Io6zwLa08SG9XI=",
+        "mf": "C16H12O2",
+        "idCodeHash": "99555c266e95fb2d6d57fee08d89d637",
+        "file": "./C - Difficult/2020/index.json",
+        "title": "Exercise 22",
+        "idCode": "fdy@`@@HRY[V}eQJCEj@Hx@@@@"
+      },
+      {
+        "id": "4PVMIq3eSJ+swP58MMN3CIjLXZU=",
+        "mf": "C17H20O2",
+        "idCodeHash": "b6f504cf436457a5a0b6f10f76703c4b",
+        "file": "./C - Difficult/2023/index.json",
+        "title": "Exercise 23",
+        "idCode": "fle@`@@LRfVVW]|QgAhJ@HBJ@@@"
+      }
+    ]
+  }
+]
