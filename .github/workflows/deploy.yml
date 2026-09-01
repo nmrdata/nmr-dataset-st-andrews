@@ -18,8 +18,11 @@ jobs:
         run: |
           npm i nmrium-cli --global
           nmrium deleteJSONs
-          nmrium createExercisesTOC -i true -s true
+          # createExercisesCorrection reads the structure.mol of each exercise
+          # folder, and createExercisesTOC consumes those folders into archives,
+          # so the answer key has to be built first.
           nmrium createExercisesCorrection
+          nmrium createExercisesTOC -i true -s true
           nmrium deleteStructures
           nmrium appendLinks
           git status
